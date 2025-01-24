@@ -1,0 +1,4 @@
+component 1: 0 1 2 
+component 2: 3 
+component 3: 4 5 
+Number of components: 3
